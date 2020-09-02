@@ -1,0 +1,12 @@
+*.suo
+*.user
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+*.nupkg
+**/packages/*
+!**/packages/build/
+.vs/
+.git/
